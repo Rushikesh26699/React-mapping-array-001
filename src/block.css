@@ -1,0 +1,40 @@
+.headingDiv{
+    /* border: 2px solid blue; */
+    height: 20%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10px;
+    font-family: monospace;
+    
+}
+.headingDiv p{
+    margin: 1rem;
+    font-size: 2rem;
+    font-family: sans-serif;
+    
+}
+.numberCard{
+    /* border: 2px solid blue; */
+    height: 50%;
+    width: 50%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+
+}
+.block{
+    /* border: 2px solid red; */
+    height: 25%;
+    width: 12%;
+    margin: .03rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5rem;
+    color: white;
+    
+    
+}
